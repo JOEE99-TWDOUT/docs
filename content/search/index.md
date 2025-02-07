@@ -1,10 +1,9 @@
----
-title: Search
-hidden: true
+
+title:
+hidden:
 versions:
-  fpt: '*'
-  ghec: '*'
-  ghes: '*'
-  ghae: '*'
----
+  fpt:
+  ghec:
+  ghes:
+  ghae
 
